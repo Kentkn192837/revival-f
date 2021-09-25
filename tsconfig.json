@@ -26,8 +26,11 @@
     "types": [
       "@nuxt/types",
       "@nuxtjs/axios",
-      "@types/node"
-    ]
+      "@types/node",
+      "@types/jest",
+      "./types" // 自作型定義ファイル
+    ],
+    "typeRoots": ["types", "node_modules/@types"] // 自作型定義ファイルのパス
   },
   "exclude": [
     "node_modules",

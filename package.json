@@ -16,6 +16,7 @@
     "@nuxtjs/axios": "^5.13.6",
     "@nuxtjs/composition-api": "^0.29.2",
     "@nuxtjs/pwa": "^3.3.5",
+    "@types/jest": "^27.0.2",
     "core-js": "^3.15.1",
     "hygen": "^6.1.0",
     "nuxt": "^2.15.7",
@@ -34,8 +35,8 @@
     "eslint": "^7.29.0",
     "eslint-plugin-nuxt": "^2.0.0",
     "eslint-plugin-vue": "^7.12.1",
-    "jest": "^27.0.5",
-    "ts-jest": "^27.0.3",
+    "jest": "^27.2.2",
+    "ts-jest": "^27.0.5",
     "vue-jest": "^3.0.4"
   }
 }
